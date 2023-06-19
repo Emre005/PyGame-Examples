@@ -16,3 +16,11 @@ Bu örnek README dosyası, projenin ne olduğunu, nasıl kurulacağını ve nas�
 
 Not: Yukarıdaki kod bloklarını kullanırken, markdown dilinde gerçek bir markdown dosyasında üç tırnak ` (backtick) kullanmanız gerekmektedir. Burada çıktının doğru görünmesi için tek tırnak kullanılmıştır. 
 
+# Yılan Oyunu
+
+Bu depo, Python'un Pygame kütüphanesi kullanılarak oluşturulan basit bir "Yılan" oyununu içerir. Bu oyun, yılanın ekrandaki yemleri yemesi ve boyutunu artırmasını sağlar. Yılanın kendi kuyruğuna veya ekranın dışına çarpması durumunda oyun sona erer.
+
+python snake_game.py
+
+Unutmayın ki, bu proje basit bir "Yılan" oyunu için temel bir örnektir. Yeni özellikler eklemek, oyun mekaniğini değiştirmek veya görsel tasarımı iyileştirmek için bu kodu genişletebilirsiniz. Bu tür değişiklikler, programlama ve oyun tasarımı becerilerinizi geliştirmenize yardımcı olacaktır.
+
